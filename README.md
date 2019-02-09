@@ -1,6 +1,6 @@
-### React template
+### React - Node chat on socket
 
-This is a template to build a scalable react web application using:
+This app shows us how to use socket and use:
 * React
 * Express
 * Webpack
@@ -42,6 +42,3 @@ $ git config user.email 'example@mail'
 $ git remote -v
 $ git remote set-url
 ```
-
-### TODO
-* redux thunk
