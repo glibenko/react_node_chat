@@ -1,0 +1,56 @@
+.container {
+  width: 800px;
+  border: 1px solid #000;
+  margin: 50px auto;
+  height: 400px;
+  overflow: hidden;
+}
+
+.block {
+  display: flex;
+  justify-content: space-between;
+  height: 350px;
+  border-bottom: 1px solid;
+}
+
+.chat {
+  padding: 10px;
+}
+
+.users {
+  width: 100px;
+  padding: 5px;
+  border-left: 1px solid;
+}
+
+.send {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+}
+
+.input {
+  width: 100%;
+  margin-left: 10px;
+}
+
+.input input {
+  width: 100%;
+  border-bottom: 1px solid #ccc;
+  box-sizing: border-box;
+  padding-left: 10px; 
+}
+
+.btn {
+  cursor: pointer;
+  background: #48b8e8;
+  color: #fff;
+  padding: 10px;
+  border-radius: 6px;
+  width: 100px;
+  box-sizing: border-box;
+  margin: 0 10px;
+  text-align: center;
+  flex-shrink: 0;
+}
