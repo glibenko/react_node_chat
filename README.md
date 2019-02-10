@@ -9,11 +9,12 @@ This app shows us how to use socket and use:
 * Jest
 * Enzyme
 * Flow
+* Socket.io
 
 ### Fast start
 ```sh
 # Clone the repository
-$ git clone https://github.com/njiyto/react_template
+$ git clone https://github.com/njiyto/react_node_chat.git
 
 # Install dependencies
 $ npm install
